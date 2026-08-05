@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1785946576 source:d:\sd1\new folder\inventorysystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
